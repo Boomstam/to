@@ -178,3 +178,5 @@ result.append(part3)
 result.append(part4)
 
 result.show()
+
+score = converter.parse('/Users/mennobuggenhout/PycharmProjects/to/untitled.mid')
